@@ -1,0 +1,3 @@
+C:/Users/canbo/Desktop/CProjects/SieveOfEratosthenes/EratosthenesAlgorithm/cmake-build-debug/CMakeFiles/EratosthenesAlgorithm.dir
+C:/Users/canbo/Desktop/CProjects/SieveOfEratosthenes/EratosthenesAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/canbo/Desktop/CProjects/SieveOfEratosthenes/EratosthenesAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
